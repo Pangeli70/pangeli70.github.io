@@ -1,6 +1,6 @@
 # Welcome to Angeli Paolo Giusto's GitHub Pages
 
-## Useful dev tools
+## Remaind me useful dev tools commands
 
 ### NPM
 ```
@@ -8,6 +8,11 @@ npm init // setup project
 npm update // update npm dependencies
 npm i --s [package] // install package in the current project
 npm i g [package] // install package globally 
+```
+
+### GIT
+```
+git tag vX.Y.Z-AA // Create a new versioning tag
 ```
 
 ### Angular CLI
