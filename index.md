@@ -2,11 +2,21 @@
 
 ## Useful dev tools
 
+### NPM
+```
+npm init // setup project
+npm update // update npm dependencies
+npm i --s [package] // install package in the current project
+npm i g [package] // install package globally 
+```
+
+### Angular CLI
+```
+```
+
 ## Markdown tips
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
