@@ -2,16 +2,15 @@
   "name": "pangeli70.github.io",
   "version": "1.0.0",
   "description": "Github Personal Website",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+  "main": "index.md",
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pangeli70/pangeli70.github.io.git"
+    "url": "https://github.com/Pangeli70/pangeli70.github.io.git"
   },
   "author": "ANGELI Paolo Giusto",
-  "license": "ISC",
+  "license": "UNLICENSED",
+  "private": true,
   "bugs": {
     "url": "https://github.com/Pangeli70/pangeli70.github.io/issues"
   },
